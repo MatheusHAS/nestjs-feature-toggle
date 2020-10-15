@@ -11,6 +11,9 @@ $ sudo docker-compose up
 $ docker-compose up
 ```
 
+## Unleash Admin
+`http://localhost:4242`
+
 ## Installing and running example
 ```bash
 
@@ -22,3 +25,6 @@ $ yarn dev
 # or 
 $ npm run dev
 ```
+
+## Example
+`http://localhost:3000`
